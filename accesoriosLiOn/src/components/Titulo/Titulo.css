@@ -1,6 +1,10 @@
+.Titulo{
+    background-color: burlywood;
+    text-align: center;
+}
 h1{
     border-style: dotted;
-    border-color: blueviolet;
+    border-color: palevioletred;
     border-width: 5px;
-    color: palevioletred;
+    color: wheat;
 }
